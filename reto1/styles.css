@@ -1,0 +1,16 @@
+body{
+    background-color: #fffbf7;
+}
+
+p{
+    color: #46484c;
+}
+
+#titulo{
+    color: #8b8b8bcc;
+}
+
+.btn-submit{
+    color: #fff;
+    background-color: #025157;
+}
